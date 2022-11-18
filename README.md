@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Recently graduated developer, my activities.
+ - Currently working with Java + Angular stack
+ - Studying for Oracle Certified Professional: Java SE 11 Developer
 <!--
 **Luigicuri/Luigicuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
