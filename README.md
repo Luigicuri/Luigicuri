@@ -1,5 +1,7 @@
 ### Hi there 👋
-Recently graduated developer. My current activities:
+My name is Luigi Curi Zago, I have 23 years old and I'm currently living in Brazil, the country where I'm from. 
+I Recently graduated in Information Systems with a Bachelor Degree in Instituto Federal Catarinense and now I'm working as a developer. 
+My current activities are:
  - Currently working with Java + Angular stack
  - Studying for Oracle Certified Professional: Java SE 11 Developer
 <!--
