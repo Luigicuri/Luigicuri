@@ -1,5 +1,5 @@
 ### Hi there 👋
-Recently graduated developer, my activities.
+Recently graduated developer my activities:
  - Currently working with Java + Angular stack
  - Studying for Oracle Certified Professional: Java SE 11 Developer
 <!--
