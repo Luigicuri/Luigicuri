@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Luigi Curi Zago, I have 23 years old and I'm currently living in Brazil, the country where I was born. 
-I recently graduated in Information Systems with a Bachelor Degree in Instituto Federal Catarinense and today I'm a developer with 1 year total of working experience. 
+I recently graduated in Information Systems with a Bachelor Degree in Instituto Federal Catarinense and today I'm a developer with 1+ year of working experience. 
 <br>
 Now I'm currently:
  - Working with Java + Angular stack
