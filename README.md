@@ -4,7 +4,7 @@ I recently graduated in Information Systems with a Bachelor Degree in Instituto 
 <br>
 Now I'm currently:
  - Working with Java + Angular stack
- - Studying for Oracle Certified Professional: Java SE 11 Developer test
+ - Studying for  Oracle Certified Associate: Java SE 8 Programmer 1Z0-808
 
 My Favorite technologies are:
 <br>
